@@ -7,7 +7,7 @@ Basically a plugin to demonstrate SQL queries with WooCommerce in 10 exercises, 
 
 ## Exercises
 
-> [!TASK]
+> [!NOTE]
 > Using WordPress with WooCommerce installed and Demo data complete the following using just MySQL. 
 
 
